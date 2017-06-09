@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="leche">
+        <item>Leche caliente</item>
+        <item>Leche templada</item>
+        <item>Leche fría</item>
+    </string-array>
+
+    <string-array name="azucar">
+        <item>Azúcar</item>
+        <item>Azúcar Moreno</item>
+        <item>Sacarina</item>
+        <item>Sin Azúcar</item>
+    </string-array>
+
+    <string-array name="productos">
+        <item></item>
+        <item>Cortado</item>
+        <item>Con Leche</item>
+        <item>Manchada</item>
+        <item>Solo</item>
+        <item>Bombón</item>
+        <item>Desca. sobre</item>
+        <item>Desca. maquina</item>
+        <item>Colacao</item>
+        <item>Infusión manz.</item>
+        <item>Infusión Menta-Poleo</item>
+        <item>Infusión Tila</item>
+        <item>Infusión Té Rojo</item>
+        <item>Infusión Té Verde</item>
+        <item>Infusión Té</item>
+
+    </string-array>
+</resources>
